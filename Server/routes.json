@@ -1,0 +1,58 @@
+{
+    "/admin": {
+        "/users": [
+            "/create",
+            "/login",
+            "/getAll"
+        ],
+        "/staffMembers": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "/jobTitles": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "/staffLeves": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "/unitOfMeasurement": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "vendors": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "stockItemCategories": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ],
+        "assetMaintenanceLevels": [
+            "getAll",
+            "/create",
+            "/get/:id",
+            "/update/:id",
+            "/delete/:id"
+        ]
+    }
+}

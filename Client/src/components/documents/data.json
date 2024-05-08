@@ -1,0 +1,198 @@
+[
+  {
+    "category": "Electronics",
+    "openingTotal": 0,
+    "receivedTotal": 0,
+    "issuedTotal": 0,
+    "closingTotal": 0,
+    "items": [
+      {
+        "_id": "6458cb6ac056083b6956e7e9",
+        "name": "ioew",
+        "stockItemCategory": {
+          "_id": "6458be8e3e96c9b660551841",
+          "name": "Electronics",
+          "__v": 0
+        },
+        "unitOfMeasurement": {
+          "_id": "64589d19c008cbea84da58cb",
+          "name": "Boxes",
+          "prefix": "bx",
+          "__v": 0
+        },
+        "minimumStockLevel": 2,
+        "maximumStockLevel": 3,
+        "stockAlertLevel": 2,
+        "isActive": true,
+        "__v": 0,
+        "opening": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "received": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "issued": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "closing": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        }
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "openingTotal": 0,
+    "receivedTotal": 0,
+    "issuedTotal": 0,
+    "closingTotal": 0,
+    "items": [
+      {
+        "_id": "6459497cc16b712734f7e760",
+        "name": "Item 2",
+        "stockItemCategory": {
+          "_id": "6458bdf43e96c9b660551834",
+          "name": "Furniture",
+          "__v": 0
+        },
+        "unitOfMeasurement": {
+          "_id": "64589d19c008cbea84da58cb",
+          "name": "Boxes",
+          "prefix": "bx",
+          "__v": 0
+        },
+        "minimumStockLevel": 2,
+        "maximumStockLevel": 200,
+        "stockAlertLevel": 3,
+        "isActive": true,
+        "__v": 0,
+        "opening": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "received": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "issued": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "closing": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        }
+      }
+    ]
+  },
+  {
+    "category": "Food & drinks",
+    "openingTotal": 0,
+    "receivedTotal": 0,
+    "issuedTotal": 0,
+    "closingTotal": 0,
+    "items": [
+      {
+        "_id": "645949a9c16b712734f7e765",
+        "name": "Item 3",
+        "stockItemCategory": {
+          "_id": "6458bea43e96c9b660551844",
+          "name": "Food & drinks",
+          "__v": 0
+        },
+        "unitOfMeasurement": {
+          "_id": "64589d0fc008cbea84da58c8",
+          "name": "Kilogram",
+          "prefix": "KG",
+          "__v": 0
+        },
+        "minimumStockLevel": 3,
+        "maximumStockLevel": 90,
+        "stockAlertLevel": 3,
+        "isActive": true,
+        "__v": 0,
+        "opening": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "received": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "issued": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "closing": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        }
+      }
+    ]
+  },
+  {
+    "category": "Others",
+    "openingTotal": 0,
+    "receivedTotal": 0,
+    "issuedTotal": 0,
+    "closingTotal": 0,
+    "items": [
+      {
+        "_id": "645949d4c16b712734f7e76a",
+        "name": "Item 4",
+        "stockItemCategory": {
+          "_id": "6458bead3e96c9b660551847",
+          "name": "Others",
+          "__v": 0
+        },
+        "unitOfMeasurement": {
+          "_id": "64589d22c008cbea84da58ce",
+          "name": "Carton",
+          "prefix": "ct",
+          "__v": 0
+        },
+        "minimumStockLevel": 2,
+        "maximumStockLevel": 78,
+        "stockAlertLevel": 90,
+        "isActive": false,
+        "__v": 0,
+        "opening": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "received": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "issued": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        },
+        "closing": {
+          "qty": 0,
+          "unitPrice": 0,
+          "value": 0
+        }
+      }
+    ]
+  }
+]

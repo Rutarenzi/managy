@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #04244A;
+  --primary-color-50: #3D5980;
+  --primary-color-100: #344966;
+  --primary-color-200: #384d69;
+  --secondary-color: #0075FF;
+  --secondary-color-50: #3182CE;
+  --secondary-color-100: #d9d9d9;
+  --secondary-color-200: #cccccc;
+  font-family: 'Inter', sans-serif;
+  border-color: #ABAEB2;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 30px;
+}
+
+.bgtbme {
+  background-color: #04244A !important;
+  color: #fff !important;
+}
+
+/* main{
+  font-family: var(--font-inter);
+} */
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  cursor: pointer;
+}
+
+/* set cursor to disable for all disabled buttons */
+button:disabled {
+  cursor: not-allowed !important;
+}
+
+.assetReportTable th,
+td {
+  border: 1px solid rgb(203, 203, 203);
+  /* border-collapse: collapse; */
+  padding: 5px;
+  text-align: start;
+}
+
+.assetReportTable tbody {
+  border: 1px solid rgb(203, 203, 203);
+}
